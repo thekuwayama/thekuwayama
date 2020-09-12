@@ -1,5 +1,4 @@
-# thekuwayama
+### Hi there 👋
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api?username=thekuwayama)](https://github.com/anuraghazra/github-readme-stats)
-
-The stats are from [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekuwayama)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=thekuwayama&show_icons=true&count_private=true&line_height=40)
